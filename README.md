@@ -61,6 +61,7 @@ Before you begin, make sure you have the following installed:
    ```bash
    git clone https://github.com/techcorp/instaprob.git
    cd instaprob
+   pip install -r requirements.txt
 2. **Install Dependencies:**
 
 Use pip to install the required libraries:
