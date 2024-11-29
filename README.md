@@ -66,7 +66,7 @@ Before you begin, make sure you have the following installed:
 Use pip to install the required libraries:
  ```
 python3 -m pip install instaloader
-pip install termcolor
+python -m pip install termcolor
  ```
 3. **Run the Tool:**
 
