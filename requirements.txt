@@ -1,0 +1,6 @@
+apt update
+pkg install python
+pkg install python2
+pkp install python3
+python3 -m pip install instaloader
+pip install termcolor
