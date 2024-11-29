@@ -61,12 +61,12 @@ Before you begin, make sure you have the following installed:
    ```bash
    git clone https://github.com/techcorp/instaprob.git
    cd instaprob
-   pip install -r requirements.txt
 2. **Install Dependencies:**
 
 Use pip to install the required libraries:
  ```
-pip install instaloader termcolor
+python3 -m pip install instaloader
+pip install termcolor
  ```
 3. **Run the Tool:**
 
